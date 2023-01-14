@@ -1,0 +1,16 @@
+#!/bin/bash -e
+file=$1
+binary_name=${file%.*}
+
+function cleanup {
+  echo "./$binary_name"
+  rm  -rf ./$binary_name
+}
+
+
+gcc -o $binary_name $file
+chmod +x $binary_name
+
+trap cleanup EXIT
+./$binary_name
+

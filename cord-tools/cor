@@ -1,0 +1,7 @@
+#!/bin/bash
+file=$1
+binary_name=${file%.*}
+
+gcc -o $binary_name $file
+chmod +x $binary_name
+./$binary_name
