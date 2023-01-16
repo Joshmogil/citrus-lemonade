@@ -13,6 +13,7 @@ int gcd(int u, int v) {
         if (u < v)
             { t = u; u = v; v = t;}
         u = u - v;
+        printf("Finding gcd u=%d v=%d\n",u,v);
     }
     return v;
     }
