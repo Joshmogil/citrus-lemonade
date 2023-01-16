@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+
+
 struct Fraction { int numerator; int denominator; };
 
 
