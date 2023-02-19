@@ -21,4 +21,3 @@ struct node *insertafter(int v, struct node *t)
     t->next = x;
     return x;
 }
-//This book is way too boring + there is no reason for me to learn C.
