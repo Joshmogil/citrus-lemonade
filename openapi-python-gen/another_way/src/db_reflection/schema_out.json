@@ -1,0 +1,89 @@
+{
+    "database_schema": null,
+    "artists": {
+        "ArtistId": "int",
+        "Name": "str"
+    },
+    "employees": {
+        "EmployeeId": "int",
+        "LastName": "str",
+        "FirstName": "str",
+        "Title": "str",
+        "ReportsTo": "int",
+        "BirthDate": "datetime.datetime",
+        "HireDate": "datetime.datetime",
+        "Address": "str",
+        "City": "str",
+        "State": "str",
+        "Country": "str",
+        "PostalCode": "str",
+        "Phone": "str",
+        "Fax": "str",
+        "Email": "str"
+    },
+    "genres": {
+        "GenreId": "int",
+        "Name": "str"
+    },
+    "media_types": {
+        "MediaTypeId": "int",
+        "Name": "str"
+    },
+    "playlists": {
+        "PlaylistId": "int",
+        "Name": "str"
+    },
+    "albums": {
+        "AlbumId": "int",
+        "Title": "str",
+        "ArtistId": "int"
+    },
+    "customers": {
+        "CustomerId": "int",
+        "FirstName": "str",
+        "LastName": "str",
+        "Company": "str",
+        "Address": "str",
+        "City": "str",
+        "State": "str",
+        "Country": "str",
+        "PostalCode": "str",
+        "Phone": "str",
+        "Fax": "str",
+        "Email": "str",
+        "SupportRepId": "int"
+    },
+    "invoices": {
+        "InvoiceId": "int",
+        "CustomerId": "int",
+        "InvoiceDate": "datetime.datetime",
+        "BillingAddress": "str",
+        "BillingCity": "str",
+        "BillingState": "str",
+        "BillingCountry": "str",
+        "BillingPostalCode": "str",
+        "Total": "decimal.Decimal"
+    },
+    "tracks": {
+        "TrackId": "int",
+        "Name": "str",
+        "AlbumId": "int",
+        "MediaTypeId": "int",
+        "GenreId": "int",
+        "Composer": "str",
+        "Milliseconds": "int",
+        "Bytes": "int",
+        "UnitPrice": "decimal.Decimal"
+    },
+    "invoice_items": {
+        "InvoiceLineId": "int",
+        "InvoiceId": "int",
+        "TrackId": "int",
+        "UnitPrice": "decimal.Decimal",
+        "Quantity": "int"
+    },
+    "playlist_track": {
+        "PlaylistId": "int",
+        "TrackId": "int"
+    }
+}
