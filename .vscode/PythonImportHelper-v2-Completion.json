@@ -1,0 +1,549 @@
+[
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "importPath": "functionalfun.models.car_model",
+        "description": "functionalfun.models.car_model",
+        "isExtraImport": true,
+        "detail": "functionalfun.models.car_model",
+        "documentation": {}
+    },
+    {
+        "label": "pricing_mode",
+        "importPath": "functionalfun.models",
+        "description": "functionalfun.models",
+        "isExtraImport": true,
+        "detail": "functionalfun.models",
+        "documentation": {}
+    },
+    {
+        "label": "car_model",
+        "importPath": "functionalfun.models",
+        "description": "functionalfun.models",
+        "isExtraImport": true,
+        "detail": "functionalfun.models",
+        "documentation": {}
+    },
+    {
+        "label": "mod_1",
+        "importPath": "package1",
+        "description": "package1",
+        "isExtraImport": true,
+        "detail": "package1",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "MetaData",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "reflect_db",
+        "importPath": "src.db_reflection",
+        "description": "src.db_reflection",
+        "isExtraImport": true,
+        "detail": "src.db_reflection",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "kind": 6,
+        "importPath": "functionalfun.models.car_model",
+        "description": "functionalfun.models.car_model",
+        "peekOfCode": "class Car:\n    color: str\n    make: str\n    price: int\n    doors: int",
+        "detail": "functionalfun.models.car_model",
+        "documentation": {}
+    },
+    {
+        "label": "price_",
+        "kind": 2,
+        "importPath": "functionalfun.models.pricing_model",
+        "description": "functionalfun.models.pricing_model",
+        "peekOfCode": "def price_(car: Car):\n    print(car.__dict__)\n    return None",
+        "detail": "functionalfun.models.pricing_model",
+        "documentation": {}
+    },
+    {
+        "label": "make_base_prices",
+        "kind": 5,
+        "importPath": "functionalfun.models.pricing_model",
+        "description": "functionalfun.models.pricing_model",
+        "peekOfCode": "make_base_prices = {\n    \"coup\": 100,\n    \"suv\" : 199,\n    \"sedan\": 125,\n    \"super\": 220\n}\nfactors = {\n    \"doors\": 25, #Cost per door\n    \"make\" : make_base_prices, #Different base prices for different makes\n    \"sport\": 100 # additional price for sport mode",
+        "detail": "functionalfun.models.pricing_model",
+        "documentation": {}
+    },
+    {
+        "label": "factors",
+        "kind": 5,
+        "importPath": "functionalfun.models.pricing_model",
+        "description": "functionalfun.models.pricing_model",
+        "peekOfCode": "factors = {\n    \"doors\": 25, #Cost per door\n    \"make\" : make_base_prices, #Different base prices for different makes\n    \"sport\": 100 # additional price for sport mode\n}\ndef price_(car: Car):\n    print(car.__dict__)\n    return None",
+        "detail": "functionalfun.models.pricing_model",
+        "documentation": {}
+    },
+    {
+        "label": "test_price_",
+        "kind": 2,
+        "importPath": "functionalfun.tests.test_pricing_model",
+        "description": "functionalfun.tests.test_pricing_model",
+        "peekOfCode": "def test_price_():\n    car =  car_model.Car(\n        color=\"blue\",\n        make=\"suv\",\n        price=None,\n        doors=20\n        )\n    assert pricing_mode.price_(car) == None",
+        "detail": "functionalfun.tests.test_pricing_model",
+        "documentation": {}
+    },
+    {
+        "label": "foobar",
+        "kind": 2,
+        "importPath": "main_pack.package1.mod_1",
+        "description": "main_pack.package1.mod_1",
+        "peekOfCode": "def foobar():\n    return \"foo\"",
+        "detail": "main_pack.package1.mod_1",
+        "documentation": {}
+    },
+    {
+        "label": "get_database_engine",
+        "kind": 2,
+        "importPath": "openapi-python-gen.another_way.src.db_reflection.reflect_db",
+        "description": "openapi-python-gen.another_way.src.db_reflection.reflect_db",
+        "peekOfCode": "def get_database_engine(engine_str: str) -> Engine:\n    engine = create_engine(engine_str)\n    return engine\ndef create_metadata_obj(schema: str = None) -> MetaData:\n    return MetaData(schema=schema)\ndef reflect_tables(metadata_obj: MetaData, engine: Engine):\n    metadata_obj.reflect(bind=engine)\n    tables = metadata_obj.sorted_tables\n    database_struct= {\"database_schema\":metadata_obj.schema}\n    for table in tables:",
+        "detail": "openapi-python-gen.another_way.src.db_reflection.reflect_db",
+        "documentation": {}
+    },
+    {
+        "label": "create_metadata_obj",
+        "kind": 2,
+        "importPath": "openapi-python-gen.another_way.src.db_reflection.reflect_db",
+        "description": "openapi-python-gen.another_way.src.db_reflection.reflect_db",
+        "peekOfCode": "def create_metadata_obj(schema: str = None) -> MetaData:\n    return MetaData(schema=schema)\ndef reflect_tables(metadata_obj: MetaData, engine: Engine):\n    metadata_obj.reflect(bind=engine)\n    tables = metadata_obj.sorted_tables\n    database_struct= {\"database_schema\":metadata_obj.schema}\n    for table in tables:\n        database_struct[table.name]={}\n        for column in table.columns:\n            #print(table.name, column.name, repr(column.type.python_type).removeprefix(\"<class '\").removesuffix(\"'>\"))",
+        "detail": "openapi-python-gen.another_way.src.db_reflection.reflect_db",
+        "documentation": {}
+    },
+    {
+        "label": "reflect_tables",
+        "kind": 2,
+        "importPath": "openapi-python-gen.another_way.src.db_reflection.reflect_db",
+        "description": "openapi-python-gen.another_way.src.db_reflection.reflect_db",
+        "peekOfCode": "def reflect_tables(metadata_obj: MetaData, engine: Engine):\n    metadata_obj.reflect(bind=engine)\n    tables = metadata_obj.sorted_tables\n    database_struct= {\"database_schema\":metadata_obj.schema}\n    for table in tables:\n        database_struct[table.name]={}\n        for column in table.columns:\n            #print(table.name, column.name, repr(column.type.python_type).removeprefix(\"<class '\").removesuffix(\"'>\"))\n            database_struct[table.name][column.name]=repr(column.type.python_type).removeprefix(\"<class '\").removesuffix(\"'>\")\n    json_object = json.dumps(database_struct, indent = 4) ",
+        "detail": "openapi-python-gen.another_way.src.db_reflection.reflect_db",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_database_engine",
+        "kind": 2,
+        "importPath": "openapi-python-gen.another_way.test.test_reflect_db",
+        "description": "openapi-python-gen.another_way.test.test_reflect_db",
+        "peekOfCode": "def test_get_database_engine():\n    assert type(reflect_db.get_database_engine(\"sqlite:///chinook.db\")) == sqlalchemy.Engine\ndef test_create_metadata_obj():\n    assert type(reflect_db.create_metadata_obj()) == sqlalchemy.MetaData\ndef test_reflect_tables():\n    assert reflect_db.reflect_tables(reflect_db.create_metadata_obj(),reflect_db.get_database_engine(\"sqlite:///chinook.db\")) == 0",
+        "detail": "openapi-python-gen.another_way.test.test_reflect_db",
+        "documentation": {}
+    },
+    {
+        "label": "test_create_metadata_obj",
+        "kind": 2,
+        "importPath": "openapi-python-gen.another_way.test.test_reflect_db",
+        "description": "openapi-python-gen.another_way.test.test_reflect_db",
+        "peekOfCode": "def test_create_metadata_obj():\n    assert type(reflect_db.create_metadata_obj()) == sqlalchemy.MetaData\ndef test_reflect_tables():\n    assert reflect_db.reflect_tables(reflect_db.create_metadata_obj(),reflect_db.get_database_engine(\"sqlite:///chinook.db\")) == 0",
+        "detail": "openapi-python-gen.another_way.test.test_reflect_db",
+        "documentation": {}
+    },
+    {
+        "label": "test_reflect_tables",
+        "kind": 2,
+        "importPath": "openapi-python-gen.another_way.test.test_reflect_db",
+        "description": "openapi-python-gen.another_way.test.test_reflect_db",
+        "peekOfCode": "def test_reflect_tables():\n    assert reflect_db.reflect_tables(reflect_db.create_metadata_obj(),reflect_db.get_database_engine(\"sqlite:///chinook.db\")) == 0",
+        "detail": "openapi-python-gen.another_way.test.test_reflect_db",
+        "documentation": {}
+    },
+    {
+        "label": "EnumComponent",
+        "kind": 6,
+        "importPath": "openapi-python-gen.testclient.models.EnumComponent",
+        "description": "openapi-python-gen.testclient.models.EnumComponent",
+        "peekOfCode": "class EnumComponent(str, Enum):\n    enumvalue1 = \"EnumValue1\"\n    enumvalue2 = \"EnumValue2\"\n    enumvalue3 = \"EnumValue3\"",
+        "detail": "openapi-python-gen.testclient.models.EnumComponent",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPValidationError",
+        "kind": 6,
+        "importPath": "openapi-python-gen.testclient.models.HTTPValidationError",
+        "description": "openapi-python-gen.testclient.models.HTTPValidationError",
+        "peekOfCode": "class HTTPValidationError(BaseModel):\n    \"\"\"\n    HTTPValidationError model\n    \"\"\"\n    detail: Optional[List[ValidationError]] = Field(alias=\"detail\", default=None)",
+        "detail": "openapi-python-gen.testclient.models.HTTPValidationError",
+        "documentation": {}
+    },
+    {
+        "label": "RootResponse",
+        "kind": 6,
+        "importPath": "openapi-python-gen.testclient.models.RootResponse",
+        "description": "openapi-python-gen.testclient.models.RootResponse",
+        "peekOfCode": "class RootResponse(BaseModel):\n    \"\"\"\n    RootResponse model\n    \"\"\"\n    message: str = Field(alias=\"message\")",
+        "detail": "openapi-python-gen.testclient.models.RootResponse",
+        "documentation": {}
+    },
+    {
+        "label": "Team",
+        "kind": 6,
+        "importPath": "openapi-python-gen.testclient.models.Team",
+        "description": "openapi-python-gen.testclient.models.Team",
+        "peekOfCode": "class Team(BaseModel):\n    \"\"\"\n    Team model\n    \"\"\"\n    id: int = Field(alias=\"id\")\n    name: str = Field(alias=\"name\")\n    description: str = Field(alias=\"description\")\n    is_active: Optional[bool] = Field(alias=\"is_active\", default=None)\n    created_at: Optional[str] = Field(alias=\"created_at\", default=None)\n    updated_at: Optional[str] = Field(alias=\"updated_at\", default=None)",
+        "detail": "openapi-python-gen.testclient.models.Team",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "openapi-python-gen.testclient.models.User",
+        "description": "openapi-python-gen.testclient.models.User",
+        "peekOfCode": "class User(BaseModel):\n    \"\"\"\n    User model\n    \"\"\"\n    id: int = Field(alias=\"id\")\n    username: str = Field(alias=\"username\")\n    email: str = Field(alias=\"email\")\n    password: str = Field(alias=\"password\")\n    is_active: Optional[bool] = Field(alias=\"is_active\", default=None)\n    created_at: Optional[str] = Field(alias=\"created_at\", default=None)",
+        "detail": "openapi-python-gen.testclient.models.User",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "kind": 6,
+        "importPath": "openapi-python-gen.testclient.models.ValidationError",
+        "description": "openapi-python-gen.testclient.models.ValidationError",
+        "peekOfCode": "class ValidationError(BaseModel):\n    \"\"\"\n    ValidationError model\n    \"\"\"\n    loc: List[Union[str, int]] = Field(alias=\"loc\")\n    msg: str = Field(alias=\"msg\")\n    type: str = Field(alias=\"type\")",
+        "detail": "openapi-python-gen.testclient.models.ValidationError",
+        "documentation": {}
+    },
+    {
+        "label": "root__get",
+        "kind": 2,
+        "importPath": "openapi-python-gen.testclient.services.general_service",
+        "description": "openapi-python-gen.testclient.services.general_service",
+        "peekOfCode": "def root__get() -> RootResponse:\n    base_path = APIConfig.base_path\n    path = f\"/\"\n    headers = {\n        \"Content-Type\": \"application/json\",\n        \"Accept\": \"application/json\",\n        \"Authorization\": f\"Bearer { APIConfig.get_access_token() }\",\n    }\n    query_params: Dict[str, Any] = {}\n    query_params = {key: value for (key, value) in query_params.items() if value is not None}",
+        "detail": "openapi-python-gen.testclient.services.general_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_users_users_get",
+        "kind": 2,
+        "importPath": "openapi-python-gen.testclient.services.general_service",
+        "description": "openapi-python-gen.testclient.services.general_service",
+        "peekOfCode": "def get_users_users_get() -> List[User]:\n    base_path = APIConfig.base_path\n    path = f\"/users\"\n    headers = {\n        \"Content-Type\": \"application/json\",\n        \"Accept\": \"application/json\",\n        \"Authorization\": f\"Bearer { APIConfig.get_access_token() }\",\n    }\n    query_params: Dict[str, Any] = {}\n    query_params = {key: value for (key, value) in query_params.items() if value is not None}",
+        "detail": "openapi-python-gen.testclient.services.general_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_user_users_post",
+        "kind": 2,
+        "importPath": "openapi-python-gen.testclient.services.general_service",
+        "description": "openapi-python-gen.testclient.services.general_service",
+        "peekOfCode": "def create_user_users_post(\n    data: User,\n) -> User:\n    base_path = APIConfig.base_path\n    path = f\"/users\"\n    headers = {\n        \"Content-Type\": \"application/json\",\n        \"Accept\": \"application/json\",\n        \"Authorization\": f\"Bearer { APIConfig.get_access_token() }\",\n    }",
+        "detail": "openapi-python-gen.testclient.services.general_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_users__user_id__get",
+        "kind": 2,
+        "importPath": "openapi-python-gen.testclient.services.general_service",
+        "description": "openapi-python-gen.testclient.services.general_service",
+        "peekOfCode": "def get_user_users__user_id__get(\n    user_id: int,\n) -> User:\n    base_path = APIConfig.base_path\n    path = f\"/users/{user_id}\"\n    headers = {\n        \"Content-Type\": \"application/json\",\n        \"Accept\": \"application/json\",\n        \"Authorization\": f\"Bearer { APIConfig.get_access_token() }\",\n    }",
+        "detail": "openapi-python-gen.testclient.services.general_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user_users__user_id__delete",
+        "kind": 2,
+        "importPath": "openapi-python-gen.testclient.services.general_service",
+        "description": "openapi-python-gen.testclient.services.general_service",
+        "peekOfCode": "def delete_user_users__user_id__delete(\n    user_id: int,\n) -> None:\n    base_path = APIConfig.base_path\n    path = f\"/users/{user_id}\"\n    headers = {\n        \"Content-Type\": \"application/json\",\n        \"Accept\": \"application/json\",\n        \"Authorization\": f\"Bearer { APIConfig.get_access_token() }\",\n    }",
+        "detail": "openapi-python-gen.testclient.services.general_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_user_users__user_id__patch",
+        "kind": 2,
+        "importPath": "openapi-python-gen.testclient.services.general_service",
+        "description": "openapi-python-gen.testclient.services.general_service",
+        "peekOfCode": "def update_user_users__user_id__patch(\n    user_id: int,\n    data: User,\n) -> User:\n    base_path = APIConfig.base_path\n    path = f\"/users/{user_id}\"\n    headers = {\n        \"Content-Type\": \"application/json\",\n        \"Accept\": \"application/json\",\n        \"Authorization\": f\"Bearer { APIConfig.get_access_token() }\",",
+        "detail": "openapi-python-gen.testclient.services.general_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_teams_teams_get",
+        "kind": 2,
+        "importPath": "openapi-python-gen.testclient.services.general_service",
+        "description": "openapi-python-gen.testclient.services.general_service",
+        "peekOfCode": "def get_teams_teams_get() -> List[Team]:\n    base_path = APIConfig.base_path\n    path = f\"/teams\"\n    headers = {\n        \"Content-Type\": \"application/json\",\n        \"Accept\": \"application/json\",\n        \"Authorization\": f\"Bearer { APIConfig.get_access_token() }\",\n    }\n    query_params: Dict[str, Any] = {}\n    query_params = {key: value for (key, value) in query_params.items() if value is not None}",
+        "detail": "openapi-python-gen.testclient.services.general_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_team_teams_post",
+        "kind": 2,
+        "importPath": "openapi-python-gen.testclient.services.general_service",
+        "description": "openapi-python-gen.testclient.services.general_service",
+        "peekOfCode": "def create_team_teams_post(\n    data: Team,\n) -> Team:\n    base_path = APIConfig.base_path\n    path = f\"/teams\"\n    headers = {\n        \"Content-Type\": \"application/json\",\n        \"Accept\": \"application/json\",\n        \"Authorization\": f\"Bearer { APIConfig.get_access_token() }\",\n    }",
+        "detail": "openapi-python-gen.testclient.services.general_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_team_teams__team_id__get",
+        "kind": 2,
+        "importPath": "openapi-python-gen.testclient.services.general_service",
+        "description": "openapi-python-gen.testclient.services.general_service",
+        "peekOfCode": "def get_team_teams__team_id__get(\n    team_id: int,\n) -> Team:\n    base_path = APIConfig.base_path\n    path = f\"/teams/{team_id}\"\n    headers = {\n        \"Content-Type\": \"application/json\",\n        \"Accept\": \"application/json\",\n        \"Authorization\": f\"Bearer { APIConfig.get_access_token() }\",\n    }",
+        "detail": "openapi-python-gen.testclient.services.general_service",
+        "documentation": {}
+    },
+    {
+        "label": "delete_team_teams__team_id__delete",
+        "kind": 2,
+        "importPath": "openapi-python-gen.testclient.services.general_service",
+        "description": "openapi-python-gen.testclient.services.general_service",
+        "peekOfCode": "def delete_team_teams__team_id__delete(\n    team_id: int,\n) -> None:\n    base_path = APIConfig.base_path\n    path = f\"/teams/{team_id}\"\n    headers = {\n        \"Content-Type\": \"application/json\",\n        \"Accept\": \"application/json\",\n        \"Authorization\": f\"Bearer { APIConfig.get_access_token() }\",\n    }",
+        "detail": "openapi-python-gen.testclient.services.general_service",
+        "documentation": {}
+    },
+    {
+        "label": "update_team_teams__team_id__patch",
+        "kind": 2,
+        "importPath": "openapi-python-gen.testclient.services.general_service",
+        "description": "openapi-python-gen.testclient.services.general_service",
+        "peekOfCode": "def update_team_teams__team_id__patch(\n    team_id: int,\n    data: Team,\n) -> Team:\n    base_path = APIConfig.base_path\n    path = f\"/teams/{team_id}\"\n    headers = {\n        \"Content-Type\": \"application/json\",\n        \"Accept\": \"application/json\",\n        \"Authorization\": f\"Bearer { APIConfig.get_access_token() }\",",
+        "detail": "openapi-python-gen.testclient.services.general_service",
+        "documentation": {}
+    },
+    {
+        "label": "APIConfig",
+        "kind": 6,
+        "importPath": "openapi-python-gen.testclient.api_config",
+        "description": "openapi-python-gen.testclient.api_config",
+        "peekOfCode": "class APIConfig:\n    base_path: str = \"http://localhost:8080\"\n    verify: Union[bool, str] = True\n    @staticmethod\n    def get_access_token() -> Optional[str]:\n        try:\n            return os.environ[\"access_token\"]\n        except KeyError:\n            return None\n    @staticmethod",
+        "detail": "openapi-python-gen.testclient.api_config",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "kind": 6,
+        "importPath": "openapi-python-gen.testclient.api_config",
+        "description": "openapi-python-gen.testclient.api_config",
+        "peekOfCode": "class HTTPException(Exception):\n    def __init__(self, status_code: int, message: str):\n        self.status_code = status_code\n        self.message = message\n        super().__init__(f\"{status_code} {message}\")\n    def __str__(self):\n        return f\"{self.status_code} {self.message}\"",
+        "detail": "openapi-python-gen.testclient.api_config",
+        "documentation": {}
+    }
+]
