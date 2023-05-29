@@ -1,0 +1,29 @@
+Josh Mogil 
+jmogil198@gmail.com | Github: @Joshmogil | Philadelphia
+
+Practical engineer looking to build powerful solutions using generative AI
+
+Macquarie
+Cloud Engineer
+- Built reusable microservice in Go for validating and forwarding images to elastic container registry on demand
+- Designed and built custom container image pipeline with security scans, image signing and standard tagging
+- Started the Engineering Learning Community, a common space for developers to share company specific best practices + tutorials for new joiners
+
+Macquarie 
+Junior Cloud Engineer
+- Built secure pipeline for containerizing ETL jobs and deploying images to Airflow
+- Automated system to deliver jira tickets for operational work items
+- Eliminated tech debt by migrating Cloud Obsevability Dashboard backend from Sqlite to Postgresql
+
+Personal Projects
+- Created chatbot app using OpenAI and Google Translate API's and deployed it on GCP
+- Wrote a command line application in golang for interacting with GPT models in the terminal
+
+Technical Knowledge
+- Python, Golang, SQL
+- Cloud, Containers & Serverless Functions
+- CI/CD, Security, Scalable Architecture, GitOps
+
+Certifications
+- Hashicorp Certfied Terraform Associate
+- Associate AWS Solutions Architect

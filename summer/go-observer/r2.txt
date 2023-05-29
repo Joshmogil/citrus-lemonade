@@ -1,0 +1,31 @@
+Joshua Mogil Email: jmogil198@gmail.com | GitHub: @Joshmogil | Location: Philadelphia, PA
+
+Profile
+Innovative Cloud Engineer with a hands-on approach, committed to leveraging my experience with generative AI to construct effective solutions. Proven track record in software development and project management in fast-paced environments.
+
+Professional Experience
+Macquarie Group | Cloud Engineer | January 2022 - Present
+Designed a custom container image pipeline incorporating security scans, image signing, and standard tagging, reducing complexity and increasing deployment speed.
+Engineered a scalable, reusable Go microservice that validates and sends images to Elastic Container Registry (ECR), increasing security and reliability
+Started the Engineering Learning Community, a knowledge space for developers to exchange best practices and tutorials, expediting onboarding for new joiners.
+Macquarie Group | Junior Cloud Engineer
+Constructed a secure pipeline for containerizing ETL jobs and deploying images to Apache Airflow, automating crucial aspects of data handling processes.
+Implemented an automated system for generating Jira tickets for operational work items, streamlining workflow and reducing manual effort.
+Overhauled the Cloud Observability Dashboard backend by migrating it from SQLite to PostgreSQL, eliminating technical debt and enhancing system performance.
+
+Personal Projects
+Interactive chatbot application leveraging OpenAI and Google Translate APIs, and deployed it on Google Cloud Platform (GCP), showcasing ability to handle full lifecycle of AI applications.
+Command line application in GoLang for interacting with GPT models in the terminal, demonstrating a simple but powerful use case for generative AI
+
+Technical Proficiencies
+Programming Languages: Python, GoLang, SQL
+Cloud & DevOps: Cloud Architectures, Containerization, Serverless Functions, CI/CD, GitOps
+Other Skills: IT Security, Scalable Architecture
+
+Certifications
+HashiCorp Certified Terraform Associate
+AWS Certified Solutions Architect – Associate
+
+Education
+Tech Elevator, Coding Bootcamp  | September 2021 - December 2021
+BA in Economics, Rutgers University, New Brunswick | September 2016 - May 2020
