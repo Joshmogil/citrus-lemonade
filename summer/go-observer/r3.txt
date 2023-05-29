@@ -1,0 +1,61 @@
+
+
+---
+
+**Joshua Mogil**  
+jmogil198@gmail.com | GitHub: @Joshmogil | Philadelphia, PA  
+
+---  
+
+**PROFILE**  
+
+Innovative Cloud Engineer with a focus on generative AI, bringing a proven track record in software development and project management.  
+
+---  
+
+**PROFESSIONAL EXPERIENCE**  
+
+**Macquarie Group | Cloud Engineer**  
+January 2022 - Present  
+
+- Designed a custom container image pipeline with security scans, image signing, and standard tagging.
+- Engineered a scalable, reusable Go microservice for validating and forwarding images to ECR.
+- Started the Engineering Learning Community for knowledge exchange among developers.  
+
+**Macquarie Group | Junior Cloud Engineer**  
+Dates  
+
+- Built a secure pipeline for containerizing ETL jobs and deploying images to Apache Airflow.
+- Implemented an automated system for Jira ticket generation for operational tasks.
+- Migrated the Cloud Observability Dashboard backend from SQLite to PostgreSQL.
+
+---  
+
+**PERSONAL PROJECTS**  
+
+- Developed an interactive chatbot application using OpenAI and Google Translate APIs, deployed on GCP.
+- Built a command line application in GoLang for interacting with GPT models.
+
+---  
+
+**TECHNICAL PROFICIENCIES**  
+
+- _Programming Languages:_ Python, GoLang, SQL
+- _Cloud & DevOps:_ Cloud Architectures, Containerization, Serverless Functions, CI/CD, GitOps
+- _Other Skills:_ IT Security, Scalable Architecture
+
+---  
+
+**CERTIFICATIONS**  
+
+- HashiCorp Certified Terraform Associate
+- AWS Certified Solutions Architect – Associate
+
+---  
+
+**EDUCATION**  
+
+- Tech Elevator, Coding Bootcamp | September 2021 - December 2021
+- BA in Economics, Rutgers University, New Brunswick | September 2016 - May 2020
+
+---

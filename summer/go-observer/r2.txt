@@ -1,4 +1,7 @@
-Joshua Mogil Email: jmogil198@gmail.com | GitHub: @Joshmogil | Location: Philadelphia, PA
+Okay can you just format the following resume: 
+
+Joshua Mogil 
+jmogil198@gmail.com | GitHub: @Joshmogil | Philadelphia, PA
 
 Profile
 Innovative Cloud Engineer with a hands-on approach, committed to leveraging my experience with generative AI to construct effective solutions. Proven track record in software development and project management in fast-paced environments.
