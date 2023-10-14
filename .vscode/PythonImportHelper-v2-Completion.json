@@ -1,5 +1,61 @@
 [
     {
+        "label": "LpMaximize",
+        "importPath": "pulp",
+        "description": "pulp",
+        "isExtraImport": true,
+        "detail": "pulp",
+        "documentation": {}
+    },
+    {
+        "label": "LpProblem",
+        "importPath": "pulp",
+        "description": "pulp",
+        "isExtraImport": true,
+        "detail": "pulp",
+        "documentation": {}
+    },
+    {
+        "label": "LpStatus",
+        "importPath": "pulp",
+        "description": "pulp",
+        "isExtraImport": true,
+        "detail": "pulp",
+        "documentation": {}
+    },
+    {
+        "label": "lpSum",
+        "importPath": "pulp",
+        "description": "pulp",
+        "isExtraImport": true,
+        "detail": "pulp",
+        "documentation": {}
+    },
+    {
+        "label": "LpVariable",
+        "importPath": "pulp",
+        "description": "pulp",
+        "isExtraImport": true,
+        "detail": "pulp",
+        "documentation": {}
+    },
+    {
+        "label": "StateMachine",
+        "importPath": "statemachine",
+        "description": "statemachine",
+        "isExtraImport": true,
+        "detail": "statemachine",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "statemachine",
+        "description": "statemachine",
+        "isExtraImport": true,
+        "detail": "statemachine",
+        "documentation": {}
+    },
+    {
         "label": "dataclass",
         "importPath": "dataclasses",
         "description": "dataclasses",
@@ -265,6 +321,51 @@
         "importPath": "os",
         "description": "os",
         "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "fall.linear_programming",
+        "description": "fall.linear_programming",
+        "peekOfCode": "model = LpProblem(name=\"small-problem\", sense=LpMaximize)\n# Initialize the decision variables\nx = LpVariable(name=\"x\", lowBound=0)\ny = LpVariable(name=\"y\", lowBound=0)\n# Add the constraints to the model\nmodel += (2 * x + y <= 20, \"red_constraint\")\nmodel += (4 * x - 5 * y >= -10, \"blue_constraint\")\nmodel += (-x + 2 * y >= -2, \"yellow_constraint\")\nmodel += (-x + 5 * y == 15, \"green_constraint\")\n# Add the objective function to the model",
+        "detail": "fall.linear_programming",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "fall.linear_programming",
+        "description": "fall.linear_programming",
+        "peekOfCode": "x = LpVariable(name=\"x\", lowBound=0)\ny = LpVariable(name=\"y\", lowBound=0)\n# Add the constraints to the model\nmodel += (2 * x + y <= 20, \"red_constraint\")\nmodel += (4 * x - 5 * y >= -10, \"blue_constraint\")\nmodel += (-x + 2 * y >= -2, \"yellow_constraint\")\nmodel += (-x + 5 * y == 15, \"green_constraint\")\n# Add the objective function to the model\nmodel += lpSum([x, 2 * y])\n# Solve the problem",
+        "detail": "fall.linear_programming",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "fall.linear_programming",
+        "description": "fall.linear_programming",
+        "peekOfCode": "y = LpVariable(name=\"y\", lowBound=0)\n# Add the constraints to the model\nmodel += (2 * x + y <= 20, \"red_constraint\")\nmodel += (4 * x - 5 * y >= -10, \"blue_constraint\")\nmodel += (-x + 2 * y >= -2, \"yellow_constraint\")\nmodel += (-x + 5 * y == 15, \"green_constraint\")\n# Add the objective function to the model\nmodel += lpSum([x, 2 * y])\n# Solve the problem\nstatus = model.solve()",
+        "detail": "fall.linear_programming",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "kind": 5,
+        "importPath": "fall.linear_programming",
+        "description": "fall.linear_programming",
+        "peekOfCode": "status = model.solve()\nprint(f\"objective: {model.objective.value()}\")",
+        "detail": "fall.linear_programming",
+        "documentation": {}
+    },
+    {
+        "label": "Ant",
+        "kind": 6,
+        "importPath": "fall.state_machine",
+        "description": "fall.state_machine",
+        "peekOfCode": "class Ant(StateMachine):\n    \"A traffic light machine\"\n    green = State(initial=True)\n    yellow = State()\n    red = State()\n    cycle = (\n        green.to(yellow)\n        | yellow.to(red)\n        | red.to(green)\n    )",
+        "detail": "fall.state_machine",
         "documentation": {}
     },
     {

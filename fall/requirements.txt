@@ -1,0 +1,2 @@
+PuLP==2.7.0
+python-statemachine==2.1.2
